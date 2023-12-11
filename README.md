@@ -25,3 +25,6 @@ La elección del gestor de bases de datos a utilizar queda a tu criterio, aunque
 - [Video: ¿Cómo se modelan las bases de datos NoSQL? de HolaMundo](https://youtu.be/Zdlude8l8w4?si=gfIqq3gknpT4nDT4)
 - [Intro to SQL de Kaggle](https://www.kaggle.com/learn/intro-to-sql)
 - [Advanced SQL de Kaggle](https://www.kaggle.com/learn/advanced-sql)
+
+  ---
+**Si te resultó útil este repositorio, regalame una estrella ⭐**
